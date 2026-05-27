@@ -3,7 +3,7 @@
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Desenvolvimento-orange)
+![Status](https://img.shields.io/badge/Status-Desenvolvimento-orange)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
 
