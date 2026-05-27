@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Funcionalidades
+## 🖥️ Funcionalidades
 
 ### 📌 Automação Web
 - Login automático
