@@ -1,6 +1,11 @@
 # 🎭 ScriptsPW - Automação Web com Playwright e Python
 
-Projeto desenvolvido para estudos e prática de automação web utilizando **Python + Playwright**, explorando localização de elementos, interação com páginas, captura de tela, gravação de execução e automação de processos.
+---
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Desenvolvimento-orange)
+![License](https://img.shields.io/badge/License-MIT-red)
+
 
 ---
 
