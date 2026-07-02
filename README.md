@@ -156,24 +156,17 @@ Projeto criado para desenvolvimento de habilidades em:
 
 ---
 
-## 📈 Melhorias Futuras
-
-- [ ] Exportação CSV
-- [ ] Relatórios automáticos
-- [ ] Dashboard
-- [ ] Logs estruturados
-- [ ] Integração com banco de dados
-
----
-
 ## 👨‍💻 Autor
 
-**Matheus Dias Pereira**
+### Matheus Dias Pereira
 
-Python • Automação • Tecnologia
+🎓 Engineer Software
 
-GitHub:
-https://github.com/matheusdiasz2007
+🔗 GitHub: https://github.com/matheusdiasz2007
+
+🔗 Linkedin https://www.linkedin.com/in/matheus-dias-pereira-th2007/
+
+⭐ Projeto desenvolvido para fins acadêmicos em Automações.
 
 ---
 
